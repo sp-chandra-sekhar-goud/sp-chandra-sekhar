@@ -43,8 +43,20 @@
   
 <div>
   
- <a href="https://www.linkedin.com/in/developer-spcsg">  <img height="40" width="40" src="https://user-images.githubusercontent.com/91608809/224492762-453e0a9d-e020-4e86-aa04-d4a6af6c26f3.png"/> <a/>
+   <!-- Linkedin --> <a href="https://www.linkedin.com/in/developer-spcsg">  <img height="40" width="40" src="https://user-images.githubusercontent.com/91608809/224492762-453e0a9d-e020-4e86-aa04-d4a6af6c26f3.png"/> <a/>
 
+  <!-- Leetcode -->
+  
+  <a href="https://leetcode.com/SPCSG/"><img height="40" width="40" src="https://user-images.githubusercontent.com/91608809/224494595-ead4aa50-212a-4890-965a-ed56748cd7e7.png"/> <a/>
+ 
+  <!-- Hackerrank -->
+  
+  <a href="https://www.hackerrank.com/developer_spcsg">  <img height="40" width="40" src="https://user-images.githubusercontent.com/91608809/224494421-2c05fed8-4067-45f7-88dd-2b18d062b733.png"/> <a/>
+
+  <!-- Techgig -->
+  
+  <a href="https://www.techgig.com/spchandrasekhargoud">  <img height="40" width="40" src="https://user-images.githubusercontent.com/91608809/224494463-19f13c9b-af7c-4155-bb29-2948b3bf1cd6.png"/> <a/>  
+    
 <div/>
 
 [![SP-Chandra-Sekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sp-chandra-sekhar)](https://github.com/sp-chandra-sekhar/github-readme-stats)
