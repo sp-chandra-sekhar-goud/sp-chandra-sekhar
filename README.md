@@ -39,6 +39,20 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
   
+[![SP-Chandra-Sekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sp-chandra-sekhar)](https://github.com/sp-chandra-sekhar/github-readme-stats)
+<br/>
+  
+<div>
+  <br/>
+<div/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp-chandra-sekhar&layout=compact)](https://github.com/sp-chandra-sekhar/github-readme-stats)
+  
+<div>
+  <br/>
+<div/>
+  
+
 # Connect with me 
   
 <div>
@@ -58,14 +72,3 @@
   <a href="https://www.techgig.com/spchandrasekhargoud">  <img height="40" width="40" src="https://user-images.githubusercontent.com/91608809/224494463-19f13c9b-af7c-4155-bb29-2948b3bf1cd6.png"/> <a/>  
     
 <div/>
-
-[![SP-Chandra-Sekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sp-chandra-sekhar)](https://github.com/sp-chandra-sekhar/github-readme-stats)
-<br/>
-  
-<div>
-  <br/>
-<div/>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sp-chandra-sekhar&layout=compact)](https://github.com/sp-chandra-sekhar/github-readme-stats)
-  
-  
