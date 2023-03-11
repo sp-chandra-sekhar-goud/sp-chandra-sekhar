@@ -34,11 +34,13 @@
   
 <div>
   <br/>
-  <br/>
 <div/>
+  
+# 🏆 GitHub Trophies
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
   
+ # 📊 GitHub Stats:
 [![SP-Chandra-Sekhar's GitHub stats](https://github-readme-stats.vercel.app/api?username=sp-chandra-sekhar)](https://github.com/sp-chandra-sekhar/github-readme-stats)
 <br/>
   
